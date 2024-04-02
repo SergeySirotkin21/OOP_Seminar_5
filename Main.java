@@ -1,7 +1,4 @@
-import data.Student;
-import data.Teacher;
-import view.StudentView;
-import view.TeacherView;
+
 
 /**
  1. Создать package – data. 
@@ -14,7 +11,10 @@ import view.TeacherView;
 Создать класс TeacherView с функцией создание и возвращения всех учителей
  */
 
-
+ import data.Student;
+ import data.Teacher;
+ import view.StudentView;
+ import view.TeacherView;
 
 
 public class Main {
